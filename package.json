@@ -1,0 +1,15 @@
+{
+  "name": "me2020",
+  "version": "1.0.0",
+  "description": "Marc English : Design",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

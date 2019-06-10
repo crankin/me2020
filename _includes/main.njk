@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} + {{ site.title }}</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+
+<body>
+  <div class="main">
+  <header>
+    <h1>{{ site.title }}</h1>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="/about">About</a></li>
+      <li><a href="/work">Work</a></li>
+      <li><a href="/contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <section>
+      {{ content | safe }}
+  </section>
+
+  <section>
+    {% for item in images %}
+    <img src="images/{{ item.img }}" alt="{{ item.alt }}">
+    {% endfor %}
+  </section>
+  </div>
+</body>
+</html>
