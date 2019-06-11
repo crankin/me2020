@@ -8,11 +8,11 @@ images:
    alt: title screen 2
  - img: hulu/3-speed-map.jpg
    alt: title screen 3
- - img: hulu/1-speed-george.jpg
+ - img: hulu/4-speed-george.jpg
    alt: title screen 4
- - img: hulu/1-speed-bus.jpg
+ - img: hulu/5-speed-bus.jpg
    alt: title screen 5
- - img: hulu/1-speed-horse.jpg
+ - img: hulu/6-speed-horse.jpg
    alt: title screen 6
 ---
 
