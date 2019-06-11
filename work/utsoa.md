@@ -2,9 +2,20 @@
 title: 09 UNIVERSITY OF TEXAS SCHOOL OF ARCHITECTURE
 types: 'BRANDING : TYPE DESIGN : INTERIORS : PUBLICATION DESIGN : PACKAGING : WEB'
 images:
- - img:
-   alt:
-
+ - img: utsoa/logo.jpg
+   alt: UTSOA logo
+ - img: utsoa/stationary.jpg
+   alt: UTSOA stationary
+ - img: utsoa/certificate-detail.jpg
+   alt: UTSOA certificate detail
+ - img: utsoa/style-guide-cover.jpg
+   alt: UTSOA Style Guide cover
+ - img: utsoa/style-guide-spreads.jpg
+   alt: UTSOA Style Guide spreads
+ - img: utsoa/planning-forum-cover.jpg
+   alt: UTSOA Planning Forum cover
+ - img: utsoa/planning-forum-spreads.jpg
+   alt: UTSOA Planning Forum spreads
 ---
 
 I was riding in the Sonoran desert, taking the long way from the Universidad de Monterey, where I’d been teaching, and heading back to Austin. Dirt and rock roads and riding up a dusty valley on my motorcycle, thinking I was exactly where I was supposed to be — in a god-forsaken part of Mexico, leaving my role as educator, ready to go back to my role as design studio principal, yet currently doing one of the things I love most: exploring off the beaten track. Some good stories go with that trip, one of which was meeting Hector, middle-aged, legless, in a wheelchair, hauling himself along a nasty caliche road. He spoke no English, and my Spanish is terrible, but we made ourselves understood. Languages and cultures have always kept me interested.

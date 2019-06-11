@@ -2,9 +2,18 @@
 title: 07 TEXAS WRITERS MONTH
 types: 'BRANDING : PUBLICATION : POSTERS'
 images:
- - img:
-   alt:
-
+ - img: writers/poster-mccarthy.jpg
+   alt: Cormac McCarthy poster
+ - img: writers/poster-larry.jpg
+   alt: Larry McMurtry poster
+ - img: writers/poster-michener.jpg
+   alt: James Michener poster
+ - img: writers/poster-michener-detail.jpg
+   alt: James Michener poster detail
+ - img: writers/poster-ohenry.jpg
+   alt: O. Henry poster
+ - img: writers/poster-porter.jpg
+   alt: Katherine Anne Porter poster
 ---
 
 Books have been an influence since I was a child, so it should be no surprise we jumped at the chance to work on posters for Texas Writers Month, which celebrates a different author each year, along with a month of literary programming around the state. We worked on this project for the better part of a decade, before the Powers That Be moved on (Lawrence Wright far too busy with articles in the New Yorker, non-fiction, and cinematic realizations).

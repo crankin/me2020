@@ -24,7 +24,7 @@ h1, h2, h3 {
 .main {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 40px 200px 1fr 1fr;
+  grid-template-rows: 40px 40px 1fr 1fr;
   grid-gap: 0.5rem;
   margin: 0 4vw;
   }
@@ -34,7 +34,7 @@ h1, h2, h3 {
 .main {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-template-rows: 200px 1fr;
+  grid-template-rows: 40px 1fr;
   grid-gap: 3rem 3rem;
   margin: 0 2rem;
   }
@@ -94,12 +94,28 @@ nav a {
   font-weight: 700;
 }
 
+nav #subwork a {
+  color: var(--me-gray);
+}
+
 nav a.active {
   color: var(--me-magenta);
 }
 
-nav a:hover {
+nav a:hover,
+nav #subwork a:hover {
   color: var(--me-cyan);
+}
+
+.navinit {
+  display: none;
+}
+
+.navshow {
+  display: block;
+  z-index: 40;
+  background: white;
+  position: relative;
 }
 
 .wtext h2 {

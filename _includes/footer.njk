@@ -1,0 +1,18 @@
+<script type="text/javascript">
+function navLoad() {
+  function toggle() {
+    var el = document.getElementById('subwork');
+    if (el.className === 'navshow') el.className = 'navinit';
+    else el.className = 'navshow';
+    }
+    function toggle2() {
+      var el = document.getElementById('subcon');
+      if (el.className === 'navshow') el.className = 'navinit';
+      else el.className = 'navshow';
+      }
+document.querySelector('#worknav').addEventListener('click', toggle, false);
+document.querySelector('#connav').addEventListener('click', toggle2, false);
+}
+
+document.addEventListener('DOMContentLoaded', navLoad, false);
+</script>
