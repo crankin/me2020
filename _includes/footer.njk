@@ -10,8 +10,23 @@ function navLoad() {
       if (el.className === 'navshow') el.className = 'navinit';
       else el.className = 'navshow';
       }
+      function toggle3() {
+        var el = document.getElementById('subabout');
+        if (el.className === 'navshow') el.className = 'navinit';
+        else el.className = 'navshow';
+        }
+        function toggle4(ev) {
+          ev.preventDefault();
+          var el = document.getElementById('moretext');
+          if (el.className === 'showit') el.className = 'hideit';
+          else el.className = 'showit';
+          }
+
 document.querySelector('#worknav').addEventListener('click', toggle, false);
 document.querySelector('#connav').addEventListener('click', toggle2, false);
+document.querySelector('#aboutnav').addEventListener('click', toggle3, false);
+document.querySelector('#more').addEventListener('click', toggle4, false);
+
 }
 
 document.addEventListener('DOMContentLoaded', navLoad, false);

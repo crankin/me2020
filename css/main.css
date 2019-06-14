@@ -19,34 +19,57 @@ img {
 h1, h2, h3 {
   margin: 0;
   padding: 0;
-}
+  }
 
 .main {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 40px 40px 1fr 1fr;
+  grid-template-rows: 30px 30px 1fr;
   grid-gap: 0.5rem;
   margin: 0 4vw;
   }
 
+header, nav {
+  position: sticky;
+  background: white;
+  align-self: center;
+  }
+
+header { top: 0; }
+
+nav { top: 36px; }
+
+.wtext { margin-top: 2rem; }
 
 @media screen and (min-width: 720px) {
 .main {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  grid-template-rows: 40px 1fr;
-  grid-gap: 3rem 3rem;
-  margin: 0 2rem;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: 10vh 1fr;
+  grid-gap: 3rem 1rem;
+  margin: 0 2vw;
+  }
+
+  header, nav { top: 0; align-self: stretch; }
+
+  header { grid-column: 1/4; }
+
+  nav { grid-column: 5/9; }
+
+
+  .wtext {
+    position: sticky;
+    grid-column: 1/4;
+    margin-top: inherit;
+  }
+
+  .wimages {
+    grid-column: 5/9;
   }
 }
 
-/* nav,
-header { align-self: center; } */
-
 header h1 {
   font-size: 1rem;
-  /* border-bottom: 2px dashed var(--me-black); */
-  /* display: inline; */
   padding-bottom: 0.3rem;
   margin: 1rem 0;
   text-transform: uppercase;
@@ -58,71 +81,74 @@ nav ul {
   padding: 0;
   display: flex;
   margin: 1rem 0;
-  /* border-bottom: 2px dashed var(--me-black); */
   padding-bottom: 0.3rem;
-}
-
-nav ul ul {
-  display: block;
-}
-
+  }
 
 nav li {
   margin-left: 1.2rem;
   text-transform: uppercase;
-}
+  }
 
-/* nav li:first-child {
+nav li:first-child {
   margin-left: 0;
-} */
+  }
 
-/* nav ul ul {
-  list-style: none;
-  display: block;
-  margin: 0;
+nav ul ul {
+  grid-column: 1/-1;
 }
 
 nav ul ul li {
-  display: block;
-  margin: 0;
-} */
+  margin-left: 0;
+  }
 
 nav a {
   font-size: 1rem;
   color: var(--me-black);
   text-decoration: none;
   font-weight: 700;
-}
+  }
 
-nav #subwork a {
+nav ul ul a,
+nav ul p a {
   color: var(--me-gray);
-}
+  }
 
 nav a.active {
   color: var(--me-magenta);
-}
+  }
 
-nav a:hover,
-nav #subwork a:hover {
+nav a:hover {
   color: var(--me-cyan);
-}
+  }
 
 .navinit {
   display: none;
-}
+  }
 
 .navshow {
   display: block;
   z-index: 40;
   background: white;
   position: relative;
+  }
+
+.showit {
+  display: block;
+}
+
+.hideit {
+  display: none;
+}
+
+.wtext a {
+  color: var(--me-cyan);
 }
 
 .wtext h2 {
   font-size: 1rem;
   color: var(--me-cyan);
   text-transform: uppercase;
-}
+  }
 
 .wtext h3 {
   font-size: 0.75rem;
@@ -131,7 +157,7 @@ nav #subwork a:hover {
   font-weight: 400;
   margin-top: 0.3rem;
   margin-bottom: 1.5rem;
-}
+  }
 
 .wtext p {
   max-width: 65ch;

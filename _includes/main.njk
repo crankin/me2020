@@ -17,13 +17,14 @@
     {% include "nav.njk" %}
   </nav>
 
-  <section>
-      {{ content | safe }}
+  <section class="wtext">
+    <h2>{{ title }}</h2>
+    {{ content | safe }}
   </section>
 
-  <section>
+  <section class="wimages">
     {% for item in images %}
-    <img src="images/{{ item.img }}" alt="{{ item.alt }}">
+    <img src="images/{{ item.img }}" alt="{{ item.alt }}" id="{{ item.id }}">
     {% endfor %}
   </section>
   </div>
