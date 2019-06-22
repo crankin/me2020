@@ -1,15 +1,9 @@
 ---
 layout: main
 title: Outro
-images:
- - img: about/print2018-cover.jpg
-   alt: Print 2018 cover
- - img: about/kant-venn.jpg
-   alt: Kant's Aesthetic Theory Venn Diagram
-   id: kant
 ---
 
-### THE PRESENT : THE FUTURE
+#### THE PRESENT : THE FUTURE
 
 If you’ve made it this, it means you are reading the words, that words are as important to you as pictures. So I’m glad you’re here.
 
