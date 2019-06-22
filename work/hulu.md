@@ -28,7 +28,7 @@ He’s putting together a team, a dirty half-dozen, and he wants me to be the ex
 
 He’s worked with Speed before on other projects (Waking Life, School of Rock). Speed is a renown tour guide, and the documentary by Bennett Miller, “The Cruise,” has gained a legendary following. Miller went on to direct Capote, and Moneyball, and The Cruise offers up Speed’s insights and philosophies, juxtaposed with his unequaled skills as a tour guide in New York City.
 
-<a href="#" id="more">< MORE ></a>
+<a href="#" id="more">&lt; MORE &gt;</a>
 
 <div class="hideit" id="moretext">
 
@@ -36,12 +36,10 @@ The script becomes the first of a 6-part series for Hulu. “Up To Speed,” a h
 
 Not quite documentary, the shows delve into each city’s rich history. But this is NOT a ken brown project. It’s 100% linklater. Which means smart, funny, on point.
 
-Rick does NOT want this to be a “Ken Burns” doc, with no slight to Mr. Burns. So I suggest maybe Monty Python’s Flying Circus? It’s a go.
+Rick does NOT want this to be a “Ken Burns” doc,  with no slight to Mr. Burns. So I suggest maybe Monty Python’s Flying Circus? It’s a go.
 
-Also on the team, ace editor Mike Saenz (assistant ed. on Boyhood), and composer extraordinaire Graham Reynolds. I bring on board the witty and talented animator Jake Mendez, for his own take on what my own team brings to the table. And yes, we pointedly used the typeface Mistral in the title. Not only that, but we used Comic Sans on the poster.
+Also on the team, ace editor Mike Saenz (assistant ed. on Boy- hood), and composer extraordinaire Graham Reynolds. I bring on board the witty and talented animator Jake Mendez, for his own take on what my own team brings to the table. And yes, we pointedly used the typeface Mistral in the title. Not only that, but we used Comic Sans on the poster.
 
 </div>
 
-<!--
 <iframe src="https://player.vimeo.com/video/46722989" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
--->

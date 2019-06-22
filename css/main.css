@@ -13,7 +13,7 @@ body {
 
 img {
   max-width: 100%;
-  margin: 2rem auto;
+  margin: 1rem auto;
   }
 
 h1, h2, h3 {
@@ -148,6 +148,7 @@ nav a:hover {
   font-size: 1rem;
   color: var(--me-cyan);
   text-transform: uppercase;
+  border-top: 1px dashed var(--me-gray);
   }
 
 .wtext h3 {
