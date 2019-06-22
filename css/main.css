@@ -35,9 +35,9 @@ header, nav {
   align-self: center;
   }
 
-header { top: 0; }
+header { top: 0; z-index: 100; }
 
-nav { top: 36px; }
+nav { top: 36px; z-index: 101; }
 
 .wtext { margin-top: 2rem; }
 
@@ -148,11 +148,21 @@ nav a:hover {
   font-size: 1rem;
   color: var(--me-cyan);
   text-transform: uppercase;
-  border-top: 1px dashed var(--me-gray);
   }
 
 .wtext h3 {
-  font-size: 0.75rem;
+  font-size: 1rem;
+  color: var(--me-cyan);
+  text-transform: uppercase;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  margin-bottom: 0.1rem;
+  border-top: 2px dashed black;
+  width: 60%;
+  }
+
+.wtext h4 {
+  font-size: 0.8rem;
   color: var(--me-gray);
   text-transform: uppercase;
   font-weight: 400;
@@ -160,9 +170,25 @@ nav a:hover {
   margin-bottom: 1.5rem;
   }
 
+.cv h4 {
+  font-size: 1.2rem;
+  color: black;
+  text-transform: none;
+  margin: 2rem 0;
+  display: inline-block;
+}
+
 .wtext p {
   max-width: 65ch;
-  font-size: 0.9rem;
-  line-height: 1.2;
-  font-weight: 600;
+font-size: 0.9rem;
+line-height: 1.3;
+font-weight: 500;
+margin: 0 auto 1.5rem;
   }
+
+.wtext li {
+  max-width: 65ch;
+font-size: 0.9rem;
+line-height: 1.3;
+font-weight: 500;
+}

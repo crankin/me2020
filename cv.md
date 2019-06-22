@@ -1,12 +1,13 @@
 ---
 layout: main
 title: Curriculum Vitae
+slug: cv
 ---
 
-## CAREER HISTORY
+### CAREER HISTORY
 
-#### __Marc English Design__ : Boston/Austin
-#### _1993-present_
+#### __Marc English Design__ : Boston/Austin  
+#### _1993-present_  
 #### Principal
 
 Manage all aspects of communication design studio. Emphasis on corporate identity/branding. Projects include identity systems,  packaging, marcom, web development, interactive menu design, animation, advertising, annual reports.
@@ -31,7 +32,7 @@ Managed and designed all aspects of identity and communication graphics for way-
 
 Client, vendor interaction for Fortune 500 studio.
 
-## AUTHOR
+### AUTHOR
 
 __Designing Identity: Graphic Design as a Business Strategy__
 
@@ -42,7 +43,7 @@ into the role design plays as part of a strategy for success,
 covering technology, products, corporate and institutional
 clients.
 
-## RECOGNITION
+### RECOGNITION
 
 - American Institute of Graphic Arts
 - AIGA 50 Books / 50 Covers
@@ -62,13 +63,13 @@ clients.
 - Society of Publication Designers
 - Step Inside Design
 
-## COLLECTIONS
+### COLLECTIONS
 
 - Museum für Kunst und Gewerbe, Hamburg, Germany
 - Merrill C. Berman Collection, New York
 - Universidad Autónoma Metropolitano, México City
 
-## SERVICE
+### SERVICE
 
 __Massachusetts College of Art Alumni/ae Association__
 _1987-1991_
@@ -100,13 +101,13 @@ _2013-2016_
 __Mount Ida College__, Newton, MA : Design Advisory Board
 _2016-2018_
 
-## JUROR
+### JUROR
 
 1993-present
 
 Juror for local, regional, national design and advertising competitions, from Communication Arts to the Art Directors Club of Nowhere in Particular.
 
-## ADJUNCT PROFESSOR
+### ADJUNCT PROFESSOR
 
 __Universidad Francisco Marroquín School of Business__ : Guatemala City, Guatemala
 _2016-2017_
@@ -134,7 +135,7 @@ _1989-1994_
 
 Courses include: introductory & advanced level design, all aspects of corporate identity & branding, publication design, basic & advanced typography, portfolio, graduate thesis studies.
 
-## EDUCATION
+### EDUCATION
 
 __Harvard University__ : Certificate, study under Massimo Vignelli
 _1990_
@@ -146,7 +147,7 @@ __Berklee College of Music__
 _1978-1979_
 
 
-## FEATURED IN THE FOLLOWING BOOKS OR ARTICLES
+### FEATURED IN THE FOLLOWING BOOKS OR ARTICLES
 
 __The Preachings of Design Shaman Marc English__
 
@@ -177,12 +178,12 @@ _Pash, 2005._
 __Graphic Design America 2: The Work of Many of the Best & Brightest Design Firms From Across the United States__
 _D.K. Holland, Jessica Helfand, Chip Kidd : Rockport, 2000._
 
-## LECTURER
+### LECTURER
 
 1998-present
 Guest speaker at professional and institutional venues and conferences across the United States. First U.S. designer to speak at inaugural design conferences in Guatemala City, Guatemala and Tijuana, México.
 
-## REAL LIFE
+### REAL LIFE
 
 __Lead rock bands in Boston__, hear my songs on the radio.
 _1979-1983_
