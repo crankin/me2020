@@ -38,8 +38,12 @@ Not quite documentary, the shows delve into each city’s rich history. But this
 
 Rick does NOT want this to be a “Ken Burns” doc,  with no slight to Mr. Burns. So I suggest maybe Monty Python’s Flying Circus? It’s a go.
 
-Also on the team, ace editor Mike Saenz (assistant ed. on Boy- hood), and composer extraordinaire Graham Reynolds. I bring on board the witty and talented animator Jake Mendez, for his own take on what my own team brings to the table. And yes, we pointedly used the typeface Mistral in the title. Not only that, but we used Comic Sans on the poster.
+Also on the team, ace editor Mike Saenz (assistant ed. on _Boyhood_), and composer extraordinaire Graham Reynolds. I bring on board the witty and talented animator Jake Mendez, for his own take on what my own team brings to the table. 
+
+We’re sitting around the table at Detour, Rick’s production office and the subject of a title treatment is raised. What kind of typeface or lettering is “Speed”? He’s an iconoclast, if there ever was one. I look up at the MADE IN THE USA poster for the 1966 Jean-Luc Godard film hanging right in front of us. There’s Godard, another iconoclast, with a film on HIS take on the States. Hmmmm. “Heck,” I say, pointing to the poster, “I could just create an entire typeface around three idiosyncratic forms right there.” That’s how we developed the typeface Speed Up. And yes, we pointedly used the typeface Mistral in the title. Not only that, but we used Comic Sans on the poster. And yes, we pointedly used Comic Sans on the poster. Because if anyone can use Comic Sans without irony or idiocy, and with all sincerity, it’s Speed Levitch. 
 
 </div>
 
+<!--
 <iframe src="https://player.vimeo.com/video/46722989" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+-->
