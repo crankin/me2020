@@ -15,12 +15,12 @@
       <li><a href="/work/hulu">05 HULU</a></li>
       <li><a href="/work/mark">06 MARK SKATEBOARDS</a></li>
       <li><a href="/work/writers">07 TEXAS WRITERS MONTH</a></li>
-      <li><a href="/work/wfm">08 WHOLE FOODS MARKET</a></li>
+      <li><a href="/work/wholefoods">08 WHOLE FOODS MARKET</a></li>
       <li><a href="/work/utsoa">09 UT SCHOOL OF ARCHITECTURE</a></li>
       <li><a href="/work/via313">10 VIA313</a></li>
     </ul></li>
-  <li><a href="/contact" id="connav">Contact</a></li>
-    {# <p id="subcon" class="navinit"><a href="mailto:shaman@marcenglishdesign.com">shaman@marcenglishdesign.com</a><br>
-      512.217.9468<br>
-      USA</p> #}
+  <li><a href="/contact" id="connav">Contact</a>
+  {% if contactnav %}
+    <p id="subcon"><a href="mailto:shaman@marcenglishdesign.com">shaman@marcenglishdesign.com</a><br><a href="tel:+15122179468">512.217.9468</a><br>USA</p>
+    {% endif %}</li>
 </ul>

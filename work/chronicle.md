@@ -53,13 +53,11 @@ The biennial AIGA conference is to be held in my hometown, Boston. Attendees hav
 
 I was happy to discover a former student of mine, from when I taught at my alma mater, MassArt, Vanessa Dina, at my table. Then, as now, she was an art director at San Francisco’s acclaimed Chronicle Books. I was very happy for her. Every teacher should hope their students surpass them. As a professor, I’ve long seen myself as a bow, doing what I can to launch my arrows, my students. Some go straight and true, and I can see them hit their target. Some have a slight bend to them, and I witness their downward slant to ground. And then there are those who fly so high and far I cannot see first-hand what they’ve done or accomplished. Fortunately, Vanessa shared her experience, to the degree that soon enough, the student was now the client.
 
-Our first project: a book on the Suicide Girls . . .
-
 <a href="#" id="more">&lt; MORE &gt;</a>
 
 <div class="hideit" id="moretext">
 
-### SUICIDE GIRLS
+<!-- ### SUICIDE GIRLS
 
 Chronicle Books brought us on to design a book for the Suicide Girls. The short version is, the Suicide Girls were nekkid ladies on a website. The longer version attests to ideals of beauty. In this instance, the tattooed, pierced and painted pinups of today find their spot along the pinups of the ‘40s, ‘50’s, ‘60s, etc. These are today’s gals.
 
@@ -73,11 +71,11 @@ Ultimately we imagined this book sitting on our shelves comfortably with our boo
 
 Ultimately, Chronicle refused to publish the book. Why? First, I was flattered that I was asked to design the book. Vanessa, clearly a woman, along with an editorial board consisting of several women, could have chosen ANY studio for the project, and very much could have chosen a women-lead studio. I was honored by the faith and trust. From this end, we had thousands of photos from which to choose. After a frustrating week trying to accomplish this on my own, I handed the task over to the three interns at our studio, women all. I let the ladies make the call.
 
-The layouts were simple, with one, two, maybe three at most, images of each woman to be included. The SG folks complained, suggested we didn’t “understand their brand.” As a long-time student of branding, an author of a book on identity and branding, and as a professor of the same, who has a strong cisgender appreciation of women, I thought they were nuts. Chronicle Books then asked the SG creatives to try their collective hands at designing the book. When they presented it to Chronicle Books, their editorial board was aghast — it was a slew of pages jam-packed with as many images as possible. There was no art or quality, only quantity, and they refused to publish the book.
+The layouts were simple, with one, two, maybe three at most, images of each woman to be included. The SG folks complained, suggested we didn’t “understand their brand.” As a long-time student of branding, an author of a book on identity and branding, and as a professor of the same, who has a strong cisgender appreciation of women, I thought they were nuts. Chronicle Books then asked the SG creatives to try their collective hands at designing the book. When they presented it to Chronicle Books, their editorial board was aghast — it was a slew of pages jam-packed with as many images as possible. There was no art or quality, only quantity, and they refused to publish the book. -->
 
 ### WHERE FLAVOR WAS BORN
 
-Upon losing the Suicide Girls project, Vanessa immediately felt bad, threw us this book. In a nice twist of happenstance, original art we’d created for the SG book (abused textures) found their way into this volume.
+<!-- Upon losing the Suicide Girls project, Vanessa immediately felt bad, threw us this book. In a nice twist of happenstance, original art we’d created for the SG book (abused textures) found their way into this volume. -->
 
 “The cooking of the Indian Ocean has many temperaments but only one soul, and that soul is to be found in it’s spices,” so says chef and author Andreas Viestad, who has homes in Oslo, Norway, and outside Cape Town, South Africa. It was our responsibility to find that soul and put it on paper. Of course it was easy to draw an inspiring color palette from the wonderful photos by Norway-based Mette Randem. Our typographic treatment was inspired by the hand-painted signs we have hanging around our studio, liberated from places as different as the Indian Territories of Oklahoma and the back streets of Tijuana, each done with care, each showing a human touch, just as any hand-rendered shop sign in Sri Lanka, Oman, or Indonesia.
 
@@ -87,7 +85,7 @@ We like it when clients are happy. In this case art director Vanessa and Chronic
 
 It’s always fun to combine our loves of culture and travel and books, and this was another opportunity, to highlight our neighbors to the east. Cooking up a storm is what we love to do, and it is always about using the right ingredients, in the right amounts, to create an absolutely authentic flavor, mon cher.
 
-These recipes are family favorites from the New Orleans area, complied by the New Orleans Times-Picayune. Budget was limited, but we brought in one of Louisiana’s treasures, illustrator Francis X Pavy of Lafayette, to add our version of lagniappe, with his funky and chunky and down-home woodcarvings.
+These recipes are family favorites from the New Orleans area, compiled by the New Orleans Times-Picayune. Budget was limited, but we brought in one of Louisiana’s treasures, illustrator Francis X Pavy of Lafayette, to add our version of lagniappe, with his funky and chunky and down-home woodcarvings.
 
 If when looking at the small spreads, you ask yourself why our Poultry section does not have Pavy’s chicken big and bold, we’ve included a scale version of our fleur-de-lis wallpaper that incorporates said chicken — and okra, and everything else in this kitchen - celebrating both illustration and food. And if wondering why the photos look a wee bit blurry, well that’s because the final images are extra-large-dot duotones, which helps balance out a collection of photos from disparate sources, a simple trick to make the book cohesive.
 

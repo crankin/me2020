@@ -4,6 +4,7 @@ types: 'BRANDING : SIGNAGE : PUBLICATION : EXHIBIT : WEB : APPAREL : POSTERS : E
 images:
  - img: aiga/01-AIGA-Iowa-poster.jpg
    alt: AIGA Iowa poster
+   class: shadow
  - img: aiga/02-AIGA-love-work.jpg
    alt: AIGA Love Work poster
  - img: aiga/03-AIGA-University-Hawaii-front.jpg
@@ -32,7 +33,7 @@ I’ve been fortunate. Since then I’ve been invited to speak at any number of 
 
 Member AIGA since 1986 : #003149
 
-LAS VEGAS POSTER
+<!-- LAS VEGAS POSTER
 [poster front. held up to reflect the sky outside my Austin studio. those are trees reflected at bottom-left. In bottom-right of poster is an inverted rusty Mexican heart milagro. there’s another one, top-left, as on a playing card. Vegas, right?-
 
 In the land of the blind, the one-eyed Jack is King
@@ -47,4 +48,4 @@ From there to Texas. He made them cry. He pissed them off. He made them better. 
 
 Not to say he was unlucky. Like most people, he had to work for a living. Nothing was going to get handed to him. From the early days and late nights of playing guitar in [clubs], to the present days of [telephone], [airplane] and of course doing what he gets paid for - [hand with pen , exclamation point] - English has made his own luck, or what passes for it.
 
-So if you consider it lucky that he has a wonderful daughter, great family and friends, great people to bounce ideas off, has known a great client or two in his time, and criss-crosses the States and beyond in the name of design, all while living in Austin, Texas, then, yeah, he’s lucky. Of course English would just tell you, “Rise above mediocrity! There’s no use is luck. Hell. . . that’s just the way it is.”
+So if you consider it lucky that he has a wonderful daughter, great family and friends, great people to bounce ideas off, has known a great client or two in his time, and criss-crosses the States and beyond in the name of design, all while living in Austin, Texas, then, yeah, he’s lucky. Of course English would just tell you, “Rise above mediocrity! There’s no use is luck. Hell. . . that’s just the way it is.” -->

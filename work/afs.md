@@ -60,7 +60,7 @@ The year 1998. My book “Designing Identity” has just come out. Robb Moss is 
 
 Later I get a call from Campbell: “Would you design our logo?”
 
-“No. But I’ll do your entire identity and all other materi- als, though only if you put me on the board of directors.” At that point I understood the value of doing free or “pro bono” work and balancing it out with sitting around the table with the actual decision-makers.
+“No. But I’ll do your entire identity and all other materials, though only if you put me on the board of directors.” At that point I understood the value of doing free or “pro bono” work and balancing it out with sitting around the table with the actual decision-makers.
 
 When the Austin Film Society took over the old Austin airport hangars, that paved the way for Austin Studios, The Texas Film Hall of Fame, for which we did all aspects of branding. Somewhere in between, we ended up working QT Fest, otherwise known as the Quentin Tarantino Film Fest. Yes, I’ve an amusing QT hot-tub story.
 
@@ -72,7 +72,9 @@ When I stepped down from the board in 2007, at the thank-you dinner Rick said �
 
 ### 20YEARS
 
-The 20th anniversary retrospective book recounts the history of the Austin Film Society with articles written by Richard Linklater, writer/producer John Pierson, Ain’t It Cool News creator Harry Knowles, Alamo Drafthouse Cinema founders Tim and Karrie League, and Texas Monthly editor Evan Smith. The 88-page book features a rich timeline of AFS memorabilia, photos from its many premieres, parties and special events, and memories from the people that helped make the Austin Film Society a one-of-a-kind organization. The book features a dust jacket/poster that lists every film AFS has ever shown.
+The 20th anniversary retrospective book recounts the history of the Austin Film Society with articles written by Richard Linklater, writer/producer John Pierson, Ain’t It Cool News creator Harry Knowles, Alamo Drafthouse Cinema founders Tim and Karrie League, and then-_Texas Monthly_ editor Evan Smith.
+
+The 88-page book features a rich timeline of AFS memorabilia, photos from its many premieres, parties and special events, and memories from the people that helped make the Austin Film Society a one-of-a-kind organization. The book features a dust jacket/poster that lists every film AFS has ever shown.
 
 ### QT FEST
 

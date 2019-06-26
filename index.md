@@ -23,4 +23,4 @@ So how did my name get there? It’s not my story to tell.
 
 Yet it is my belief the images and words on this site tell a small part of that story. One’s story does not come unattended or without influence, support, patronage, camaraderie, and even love. With that in mind, I’d like to thank all who were there, are there, offering opportunity and in turn, a chance to do good work. My story would be incomplete without my family, friends, colleagues, students, interns, employees, clients, and total strangers.
 
-For some of the works and words, dig deep
+For some of the works and words, dig deep.

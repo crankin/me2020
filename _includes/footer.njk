@@ -1,6 +1,7 @@
 <script type="text/javascript">
 function navLoad() {
   function toggle(snn) {
+    snn.preventDefault;
     var el = document.getElementById(snn);
     if (el.className === 'navshow') el.className = 'navinit';
       else el.className = 'navshow';

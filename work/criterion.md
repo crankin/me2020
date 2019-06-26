@@ -74,13 +74,13 @@ images:
    alt: Walker
 ---
 
-I’m coming out of the men’s room at a club in Austin. French actor and chanteuse Julie Delpy has been singing, having just premiered her latest film by and with Austin’s own writer/di- rector Richard Linklater, Before Sunset.
+I’m coming out of the men’s room at a club in Austin. French actor and chanteuse Julie Delpy has been singing, having just premiered her latest film by and with Austin’s own writer/director Richard Linklater, _Before Sunset_.
 
-A guy runs up to me and says “HEY! Some people are looking for you! They want you do design the DVD packaging for a new release of Slacker!”
+A guy runs up to me and says “HEY! Some people are looking for you! They want you to design the DVD packaging for a new release of Slacker!”
 
 If you live in Austin, there is really no excuse for not having seen Slacker, the seminal film by Rick — er, RICHARD — Linklater. It not only defines a place, but a time. And not only that, but it holds one of the champion positions in the annals of Independent Filmmaking.
 
-So of course I was thrilled to meet the kind folks with The Criterion Collection. Criterion holds a unique place in both culture and commerce. They hold themselves to the highest standards, in terms of placing film on the pedestal it deserves, all while finding a way to
+So of course I was thrilled to meet the kind folks with The Criterion Collection. Criterion holds a unique place in both culture and commerce. <u>They hold themselves to the highest standards, in terms of placing film on the pedestal it deserves, all while finding a way to</u>
 
 Why me? Met Rick thru Harvard prof and filmmaker Robb Moss, with whom I’d played softball at MIT. Then ended up doing all the branding for the Austin Film Society, which Rick started, back in ‘85. So of course Rick knew my work, especially as I’d done a piece for the 10th anniversary of Slacker. He trusts me. I cannot say enough about those who trust me. Because it’s never about me, but about me taking the time to understand them, to listen to them, and they know I’ll do that.
 
@@ -89,6 +89,7 @@ Why me? Met Rick thru Harvard prof and filmmaker Robb Moss, with whom I’d play
 <div class="hideit" id="moretext">
 
 Below, a few words on some of the projects we’ve done for The Criterion Collection ...
+
 
 ### SLACKER
 
@@ -180,7 +181,7 @@ Fortunately, we could relate to this American Existentialist road movie, having 
 To be sure, fans of Cox, Harris, and a post-Clash Strummer have just cause for imminent revelry, but what’s really - and instantly - remarkable here is English’s cunning, audacious graphic design. Composed of a pop-arty pic of Harris portraiture atop a field of dusky crimson, with archival, period text visible beneath and jagged blue, kinet- ic outbursts radiating from behind, Criterion’s Walker should be filed under “O” for “ordnance.” It looks less like a DVD package and more like a dark promise of revolu- tion, a lesson in chaos, and, above all, a real-life, based-on-a-true-story story. It’s English’s version of the Clash’s Sandinista! pared down to its rebellious visual quick: Viva Nicaragua! Viva la Revolucion!”
 Marc Savlov : Austin Chronicle, 14 Feb 2008
 
-A hallucinatory biopic that breaks all cinematic conventions, Walker, from British diector Alex Cox (Repo Man, Sid & Nancy), tells the story of nineteenth-century American adventurer William Walker (Ed Harris), who abandoned a series of careers in law, politics, journalism, and medicine to become a soldier of fortune, and for several years dictator of Nicaragua. Made with mad abandon and political acuity - and the support of the Sandinista army and government during the Contra war - the film uses this true tale as a satirical attack on American ultrapatriotism and a freewheeling condemnation of “manifest destiny.” Featuring a powerful score by Joe Strummer and a performance of in- tense, repressed rage by Harris, Walker remains one of Cox’s most daring works.
+A hallucinatory biopic that breaks all cinematic conventions, Walker, from British director Alex Cox (Repo Man, Sid & Nancy), tells the story of nineteenth-century American adventurer William Walker (Ed Harris), who abandoned a series of careers in law, politics, journalism, and medicine to become a soldier of fortune, and for several years dictator of Nicaragua. Made with mad abandon and political acuity - and the support of the Sandinista army and government during the Contra war - the film uses this true tale as a satirical attack on American ultrapatriotism and a freewheeling condemnation of “manifest destiny.” Featuring a powerful score by Joe Strummer and a performance of in- tense, repressed rage by Harris, Walker remains one of Cox’s most daring works.
 
 For this project we merged two distinct genres: mid-19th Century, antebellum archival publication design (lifted directly from the Walker files in Tennessee) and a healthy dose of mid-1980s Sandanista agitprop, doing in design what Cox has achieved in film. Criterion’s head honcho says this job is “a design festival” and their art director concurs with “I seriously love it. You guys kicked some ass on this one.”
 

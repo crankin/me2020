@@ -18,7 +18,14 @@
   </nav>
 
   <section class="wtext">
+    {# {% if email %}
+    <p><a href="mailto:{{ email }}">{{ email }}</a><br>
+    {{ phone }}<br>
+    {{ location }}</p>
+    {% endif %} #}
+
     <h2>{{ title }}</h2>
+
     {{ content | safe }}
   </section>
 

@@ -44,7 +44,9 @@ images:
 
 MARK, for discriminating skaters and collectors, makes limited-edition skateboard decks, hand silk-screened in the USA, on the finest laminated North American maple. MARK decks are not designed for a target audience, except for the ones in our collective heads. Which means they are steeped in art, culture, literature, and film.
 
-I got an email from Mark Gobble: would I be interested in designing for his new skateboard company? Yes. Did he have a budget or any money? No.
+An email came in from Mark Gobble: would I be interested in designing for his new skateboard company? Yes. Did he have a budget or any money? No. We eventually worked it out. Working on his PhD in education, Gobble built a reputation among his peers in the deaf community as a caring, funny guy. We bonded over family, via hand-written notes or email. His wife, whom he met as a fellow student at the Texas School for the Deaf, did a stint in China teaching deaf students, resulting in the two of them adopting a couple of deaf, Chinese kids.
+
+There’s more to the branding story, and why the decks were designed as they were, but that’s the starting point. Sad to say, Mark Gobble was killed by a hit-and-run-driver while he was out running, and about to move with his family to Boston, and take on the role of professor at Boston University.
 
 “When I set out to look for an artist, I wanted someone who would understand 100% what this skateboard company would mean. I wanted someone deeply insightful, respectful and appreciative of the world’s cultures. I wanted someone who would bring out the soul of the decks for riders and admirers. I did not want to hire artists who have created art for skateboards before; I wanted someone ‘outside’ the skating industry. I wanted this artist to be able to offer new perspectives of what a skateboard could be.
 

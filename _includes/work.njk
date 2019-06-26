@@ -25,7 +25,7 @@
 
   <section class="wimages">
     {% for item in images %}
-    <img src="../../images/{{ item.img }}" alt="{{ item.alt }}">
+    <img src="../../images/{{ item.img }}" alt="{{ item.alt }}"{% if item.class %} class="{{ item.class }}"{% endif %}>
     {% endfor %}
   </section>
 

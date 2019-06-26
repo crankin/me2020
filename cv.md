@@ -149,6 +149,8 @@ _1978-1979_
 
 ### FEATURED IN THE FOLLOWING BOOKS OR ARTICLES
 
+https://podcasts.apple.com/us/podcast/fika-with-marc-english-and-skipper-chong-warson/id1188221550?i=1000416008666
+
 __The Preachings of Design Shaman Marc English__
 
 Zachary Petit : Print, 2016

@@ -3,12 +3,13 @@ layout: main
 title: Testimonials
 ---
 
-“Marc is a real designers’s designer — he’s fearless.“
+“Marc is a real designers’s designer — he’s fearless.“  
 DJ Stout, partner : Pentagram
 
-“As a filmmaker, I recognize the authenticity of Marc’s visual storytelling.” Richard Linklater, director : Detour Film Productions
+“As a filmmaker, I recognize the authenticity of Marc’s visual storytelling.”  
+Richard Linklater, director : Detour Film Productions
 
-“He’s the closest thing we have in [design] to Johnny Cash.”
+“He’s the closest thing we have in [design] to Johnny Cash.”  
 Matthew Porter : Step Inside Design magazine
 
 “So you know I not excited when you say someone in America and in Texas will make design for us that is suitable for Thai people. I think that person know nothing about Thai and we get design with cowboys and George Bush. If you show me this without me knowing anything, I would say someone Thai made them. I think they fit Thai people well.”
