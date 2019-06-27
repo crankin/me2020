@@ -1,7 +1,9 @@
 ---
-layout: main
+layout: testimonials
 title: Testimonials
+slug: testimonials
 ---
+
 
 “Marc is a real designers’s designer — he’s fearless.“  
 DJ Stout, partner : Pentagram

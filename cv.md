@@ -1,8 +1,10 @@
 ---
-layout: main
+layout: cv
 title: Curriculum Vitae
 slug: cv
 ---
+
+<section id="cv-col-1">
 
 ### CAREER HISTORY
 
@@ -74,19 +76,19 @@ clients.
 __Massachusetts College of Art Alumni/ae Association__
 _1987-1991_
 
-__AIGA/Boston__ : president
+<i>__AIGA/Boston__ : president</i>  
 _1993-1995_
 
 __Massachusetts College of Art National Alumni/ae Council__
 _1995-2005_
 
-__AIGA/Austin__ : president, founder of the Austin chapter
+<i>__AIGA/Austin__ : president,</i> founder of the Austin chapter
 _1997-1999_
 
 __AIGA/Austin Design Ranch__ : founder, chair
 _1999_
 
-__AIGA : National Board of Directors__
+<i>__AIGA : National Board of Directors__</i>  
 _1999-2002_
 
 __Austin Film Society__ : Board of Directors
@@ -101,11 +103,39 @@ _2013-2016_
 __Mount Ida College__, Newton, MA : Design Advisory Board
 _2016-2018_
 
-### JUROR
+</section>
+<section id="cv-col-2">
 
-1993-present
+### FEATURED IN THE FOLLOWING BOOKS OR ARTICLES
 
-Juror for local, regional, national design and advertising competitions, from Communication Arts to the Art Directors Club of Nowhere in Particular.
+[__Fika with Marc English and Skipper Chong Warson__](https://podcasts.apple.com/us/podcast/fika-with-marc-english-and-skipper-chong-warson/id1188221550?i=1000416008666)  
+Fjord Fika podcast
+
+[__The Preachings of Design Shaman Marc English__](http://www.printmag.com/imprint/the-preachings-of-design-shaman-marc-english/)  
+Zachary Petit : Print, 2016
+
+_Emily Potts : Moxie Sosa, 2016_
+
+__Flaunt: Designing effective, compelling and memorable portfolios of creative work__
+_Bryony Gomez-Palacio & Armin Vit, 2015._
+
+__Graphic: Inside the Sketchbooks of the World’s Great Graphic Designers__
+_Steven Heller & Lita Talarico, 2010._
+
+__Good Design: De-constructing Form, Function & What Makes Design Work; and IdeaSelling__
+_Terry Marks : Rockport, 2009._
+
+__Designers USA3__
+_B. Martin Peterson : Graphis, 2009._
+
+__Fingerprint: The Art of Using Handmade Elements in Graphic Design__
+_Josh Chen, 2006._
+
+__Inspirability: 40 Top Designers Speak Out About What Inspires__
+_Pash, 2005._
+
+__Graphic Design America 2: The Work of Many of the Best & Brightest Design Firms From Across the United States__
+_D.K. Holland, Jessica Helfand, Chip Kidd : Rockport, 2000._
 
 ### ADJUNCT PROFESSOR
 
@@ -147,38 +177,11 @@ __Berklee College of Music__
 _1978-1979_
 
 
-### FEATURED IN THE FOLLOWING BOOKS OR ARTICLES
+### JUROR
 
-https://podcasts.apple.com/us/podcast/fika-with-marc-english-and-skipper-chong-warson/id1188221550?i=1000416008666
+1993-present
 
-__The Preachings of Design Shaman Marc English__
-
-Zachary Petit : Print, 2016
-(link)[http://www.printmag.com/imprint/the-preachings-of-design-shaman-marc-english/
-]
-
-_Emily Potts : Moxie Sosa, 2016_
-
-__Flaunt: Designing effective, compelling and memorable portfolios of creative work__
-_Bryony Gomez-Palacio & Armin Vit, 2015._
-
-__Graphic: Inside the Sketchbooks of the World’s Great Graphic Designers__
-_Steven Heller & Lita Talarico, 2010._
-
-__Good Design: De-constructing Form, Function & What Makes Design Work; and IdeaSelling__
-_Terry Marks : Rockport, 2009._
-
-__Designers USA3__
-_B. Martin Peterson : Graphis, 2009._
-
-__Fingerprint: The Art of Using Handmade Elements in Graphic Design__
-_Josh Chen, 2006._
-
-__Inspirability: 40 Top Designers Speak Out About What Inspires__
-_Pash, 2005._
-
-__Graphic Design America 2: The Work of Many of the Best & Brightest Design Firms From Across the United States__
-_D.K. Holland, Jessica Helfand, Chip Kidd : Rockport, 2000._
+Juror for local, regional, national design and advertising competitions, from Communication Arts to the Art Directors Club of Nowhere in Particular.
 
 ### LECTURER
 
@@ -219,3 +222,5 @@ _2012_
 
 __10,000+ mile motorcycle trip__, over seven weeks, across eastern U.S., Canada
 _2015_
+
+</section>
