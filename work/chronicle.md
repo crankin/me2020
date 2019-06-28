@@ -1,6 +1,7 @@
 ---
 title: 04 CHRONICLE BOOKS
 types: PUBLICATION
+wnav: yes
 images:
  - img: chronicle/01-flavor-cover.jpg
    alt: Where Flavor Was Born

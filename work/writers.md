@@ -1,6 +1,7 @@
 ---
 title: 07 TEXAS WRITERS MONTH
 types: 'BRANDING : PUBLICATION : POSTERS'
+wnav: yes
 images:
  - img: writers/01-poster-ohenry.jpg
    alt: O. Henry poster

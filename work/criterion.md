@@ -1,6 +1,7 @@
 ---
 title: 03 THE CRITERION COLLECTION
 types: 'PACKAGING : PUBLICATION : INTERACTIVE MENUS'
+wnav: yes
 images:
  - img: criterion/01-slacker-cover.jpg
    alt: Slacker

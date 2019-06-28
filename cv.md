@@ -2,6 +2,7 @@
 layout: cv
 title: Curriculum Vitae
 slug: cv
+anav: yes
 ---
 
 <section id="cv-col-1">
@@ -102,6 +103,8 @@ _2013-2016_
 
 __Mount Ida College__, Newton, MA : Design Advisory Board
 _2016-2018_
+
+<i>First person to be president of two chapter, AND serve on the national board of directors</i>
 
 </section>
 <section id="cv-col-2">

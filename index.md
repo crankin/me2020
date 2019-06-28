@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Introduction
+anav: yes
 images:
  - img: about/print2018-cover.jpg
    alt: Print 2018 cover

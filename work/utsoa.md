@@ -1,6 +1,7 @@
 ---
 title: 09 UNIVERSITY OF TEXAS SCHOOL OF ARCHITECTURE
 types: 'BRANDING : TYPE DESIGN : INTERIORS : PUBLICATION DESIGN : PACKAGING : WEB'
+wnav: yes
 images:
  - img: utsoa/01-utsoa-cover-flowers.jpg
    alt: UTSOA cover with flowers

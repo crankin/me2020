@@ -2,6 +2,7 @@
 layout: testimonials
 title: Testimonials
 slug: testimonials
+anav: yes
 ---
 
 

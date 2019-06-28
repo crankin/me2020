@@ -1,6 +1,7 @@
 ---
 title: 06 MARK SKATEBOARDS
 types: 'BRANDING : PACKAGING : WEB : APPAREL :  EVENT MATERIALS'
+wnav: yes
 images:
  - img: mark/01-MARK-website-2.jpg
    alt: website splash

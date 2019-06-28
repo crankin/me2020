@@ -1,6 +1,7 @@
 ---
 title: 05 HULU
 types: 'BRANDING : TYPE DESIGN : TITLES : ANIMATED GRAPHICS : POSTER'
+wnav: yes
 images:
  - img: hulu/01-UTS-poster-v4.jpg
    alt: title screen 1

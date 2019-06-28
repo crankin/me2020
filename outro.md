@@ -1,6 +1,7 @@
 ---
 layout: main
 title: Outro
+anav: yes
 ---
 
 #### THE PRESENT : THE FUTURE

@@ -1,0 +1,28 @@
+<ul>
+  <li><a href="#" id="aboutnav"{% if anav %} class="active"{% endif %}>About</a></li>
+  <li><a href="#" id="worknav"{% if wnav %} class="active"{% endif %}>Work</a></li>
+  <li><a href="/contact" id="connav"{% if cnav %} class="active"{% endif %}>Contact</a></li>
+</ul>
+<div class="subnav">
+  <ul id="subabout" class="navinit">
+    <li><a href="/">Intro</a></li>
+    <li><a href="/cv">CV</a></li>
+    <li><a href="/testimonials">Testimonials</a></li>
+    <li><a href="/outro">Outro</a></li>
+  </ul>
+  <ul id="subwork" class="navinit">
+    <li><a href="/work/aiga">01 AIGA</a></li>
+    <li><a href="/work/afs">02 AUSTIN FILM SOCIETY</a></li>
+    <li><a href="/work/criterion">03 THE CRITERION COLLECTION</a></li>
+    <li><a href="/work/chronicle">04 CHRONICLE BOOKS</a></li>
+    <li><a href="/work/hulu">05 HULU</a></li>
+    <li><a href="/work/mark">06 MARK SKATEBOARDS</a></li>
+    <li><a href="/work/writers">07 TEXAS WRITERS MONTH</a></li>
+    <li><a href="/work/wholefoods">08 WHOLE FOODS MARKET</a></li>
+    <li><a href="/work/utsoa">09 UT SCHOOL OF ARCHITECTURE</a></li>
+    <li><a href="/work/via313">10 VIA313</a></li>
+  </ul>
+  {% if cnav %}
+    <p id="subcon"><a href="mailto:shaman@marcenglishdesign.com">shaman@marcenglishdesign.com</a><br><a href="tel:+15122179468">512.217.9468</a><br>USA</p>
+  {% endif %}
+</div>

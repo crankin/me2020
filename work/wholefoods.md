@@ -1,6 +1,7 @@
 ---
 title: 08 WHOLE FOODS MARKET
 types: PACKAGING
+wnav: yes
 images:
  - img: wfm/01-WFM-pasta-family.jpg
    alt: WFM pasta family

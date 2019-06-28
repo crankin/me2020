@@ -4,7 +4,7 @@ title: Colophon
 email: "shaman@marcenglishdesign.com"
 phone: 512.217.9468
 location: USA
-contactnav: yes
+cnav: yes
 ---
 
 __Courier__: This typeface was chosen as 1) it is readily available on all computer platforms, 2) it refers to technology — the typewriter — that is obsolete, and YET the face is on all computer platforms.

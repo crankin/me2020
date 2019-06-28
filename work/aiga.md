@@ -1,6 +1,7 @@
 ---
 title: '01 AIGA : THE PROFESSIONAL ORGANIZATION FOR GRAPHIC DESIGN'
 types: 'BRANDING : SIGNAGE : PUBLICATION : EXHIBIT : WEB : APPAREL : POSTERS : EVENT MATERIALS'
+wnav: yes
 images:
  - img: aiga/01-AIGA-Iowa-poster.jpg
    alt: AIGA Iowa poster

@@ -1,6 +1,7 @@
 ---
 title: '02 AUSTIN FILM SOCIETY'
 types: 'BRANDING : SIGNAGE : PUBLICATION : EXHIBIT : WEB : APPAREL : POSTERS : EVENT MATERIALS'
+wnav: yes
 images:
  - img: afs/01-linklater-logo.jpg
    alt: AFS logo wall shot
