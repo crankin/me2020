@@ -37,7 +37,7 @@ i {
 .main {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: 30px 30px 1fr;
+  grid-template-rows: min-content min-content repeat(auto-fit, auto);
   grid-gap: 0.5rem;
   margin: 0 4vw;
   }
@@ -61,7 +61,7 @@ nav {
 header h1 {
   font-size: 1rem;
   padding-bottom: 0.3rem;
-  margin: 1rem 0;
+  margin: 0.5rem 0;
   text-transform: uppercase;
   }
 
@@ -70,23 +70,19 @@ nav ul {
   text-indent: 0;
   padding: 0;
   display: flex;
-  margin: 1rem 0 0 0;
+  margin: 0.25rem 0 0 0;
   padding-bottom: 0.3rem;
   }
 
 nav li {
   margin-left: 1.2rem;
   text-transform: uppercase;
+
   }
 
 nav li:first-child {
   margin-left: 0;
   }
-
-/* nav ul ul {
-  grid-column: 1/-1;
-  margin: 0;
-  } */
 
 nav .subnav ul,
 nav .subnav p {
@@ -96,6 +92,7 @@ nav .subnav p {
 nav .subnav li,
 nav .subnav p {
   margin-left: 0;
+  line-height: 1.5;
   }
 
 nav a {
@@ -224,13 +221,29 @@ nav .subnav p a:hover {
   box-shadow: 8px 8px 6px 1px rgba(0,0,0,0.7);
 }
 
+blockquote.inwork {
+  background: rgb(255,242,0);
+  margin: 1rem 0.5rem;
+  padding: 0.6rem;
+  grid-row: 4;
+  }
+
+blockquote.inwork p {
+  font-weight: 700;
+  margin:0;
+  }
+
+blockquote.inwork footer p {
+   font-weight: 400;
+}
+
 
 @media screen and (min-width: 720px) {
 
 .main {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
-  grid-template-rows: 10vh 1fr;
+  grid-template-rows: min-content minmax(min-content, auto) 1fr;
   grid-gap: 3rem 1rem;
   margin: 0 2vw;
   }
@@ -244,13 +257,34 @@ header { grid-column: 1/5; }
 
 nav { grid-column: 5/9; }
 
+nav .subnav li,
+nav .subnav p {
+  line-height: inherit;
+  }
+
+header h1 {
+  margin: 1rem 0;
+  padding-bottom: 0.3rem;
+  }
+
+nav ul {
+  margin: 1rem 0 0 0;
+  padding-bottom: 0.3rem;
+  }
+
 .wtext {
   position: sticky;
   grid-column: 1/4;
   margin-top: inherit;
   }
 
-.wimages { grid-column: 5/9; }
+.wimages { grid-column: 5/9; grid-row: span 2; }
+
+blockquote.inwork {
+  grid-column: 2/5;
+  align-self: start;
+  grid-row: initial;
+  }
 
 #cv-col-1 { grid-column: 3/6; }
 

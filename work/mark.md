@@ -2,6 +2,7 @@
 title: 06 MARK SKATEBOARDS
 types: 'BRANDING : PACKAGING : WEB : APPAREL :  EVENT MATERIALS'
 wnav: yes
+bqwork: "<p>&ldquo;When I set out to look for an artist, I wanted someone who would understand 100% what this skateboard company would mean. I wanted someone deeply insightful, respectful and appreciative of the world’s cultures. I wanted someone who would bring out the soul of the decks for riders and admirers. I did not want to hire artists who have created art for skateboards before; I wanted someone ‘outside’ the skating industry. I wanted this artist to be able to offer new perspectives of what a skateboard could be.</p><p>&nbsp;&nbsp;&nbsp;&nbsp; I recalled a cover story in the Austin Chronicle about a designer named Marc English, how the cover stood out.</p><p>&nbsp;&nbsp;&nbsp;&nbsp; Pictured was a man in a North African djellaba and head scarf, with several week’s beard. The article was “English as a 2nd Language”. As I’m deaf, and as an ASL (American Sign Language) user who considers English my second language, I could appreciate the article’s title. I knew I had to contact Marc.&rdquo;</p><footer><p>Mark Gobble, president : MARK Skateboards</p></footer>"
 images:
  - img: mark/01-MARK-website-2.jpg
    alt: website splash

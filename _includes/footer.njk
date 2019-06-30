@@ -1,25 +1,21 @@
 <script type="text/javascript">
 function navLoad() {
   function toggle(snn) {
-    //snn.preventDefault;
     var el = document.getElementById(snn);
-    el.preventDefault;
-    //querySelectorAll
     if (el.className === 'navshow') el.className = 'navinit';
       else el.className = 'navshow';
   }
 
   function toggle4(ev) {
-    //ev.preventDefault();
+    ev.preventDefault();
     var el = document.getElementById('moretext');
-    el.preventDefault;
     if (el.className === 'showit') el.className = 'hideit';
       else el.className = 'showit';
     document.getElementById('more').className = 'hideit';
   }
 
 document.querySelector('#worknav')
-  .addEventListener('click', function(){toggle('subwork')}, false);
+  .addEventListener('click', function(ev){ev.preventDefault();toggle('subwork')}, false);
 document.querySelector('#connav')
   .addEventListener('click', function(){toggle('subcon')}, false);
 document.querySelector('#aboutnav')

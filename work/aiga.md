@@ -2,6 +2,8 @@
 title: '01 AIGA : THE PROFESSIONAL ORGANIZATION FOR GRAPHIC DESIGN'
 types: 'BRANDING : SIGNAGE : PUBLICATION : EXHIBIT : WEB : APPAREL : POSTERS : EVENT MATERIALS'
 wnav: yes
+slug: aiga
+bqwork: '<p>&ldquo;For the past two decades, as executive director of AIGA, my position has involved working with designers nationwide in helping them achieve their ambitions for the profession of design. This has involved working with at least 40,000 designers and students. Yet, there always a few who clearly stand out for the nature of their influence and the inspiration they can instill through life experiences and enthusiasm.</p><p>&nbsp;&nbsp;&nbsp;&nbsp; Marc English fits this description. As a designer, a leader within AIGA, a teacher and a motivational speaker, Marc has moved many. He has been critical to the quality of the design community as a professional network in as disparate locations as Boston and Austin. And he is both widely known and loved within the design community.&rdquo;</p><footer><p>Ric Grefé, executive director : AIGA</p></footer>'
 images:
  - img: aiga/01-AIGA-Iowa-poster.jpg
    alt: AIGA Iowa poster

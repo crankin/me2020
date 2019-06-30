@@ -29,6 +29,12 @@
     {% endfor %}
   </section>
 
+  {% if bqwork %}
+  <blockquote class="inwork bq{{ slug }}">
+    {{ bqwork | safe }}
+  </blockquote>
+  {% endif %}
+
   {% include "footer.njk" %}
 
   </div>

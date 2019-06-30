@@ -2,6 +2,7 @@
 title: 03 THE CRITERION COLLECTION
 types: 'PACKAGING : PUBLICATION : INTERACTIVE MENUS'
 wnav: yes
+bqwork: "<p>&ldquo;Wow. Let me just say, they do amazing work. I LOVE THEM. It takes a lot to get me excited after 10 years here, but Marc totally ‘gets it’. The best DVD packaging considers the entire concept of the production. Marc English Design is a perfect choice because they understand that presenting the world of each film is essential. The care and consideration with which each and every element is designed, makes it very clear how much they understand each movie. And we love their design as much as we love the films. Their design is the kind of presentation that involves the viewer and fan of the film; there are many tidbits to discover and make connections to. Just perfect. Marc English Design rocks savage.&rdquo;</p><footer><p>Susan Arosteguy, producer : The Criterion Collection</p></footer>"
 images:
  - img: criterion/01-slacker-cover.jpg
    alt: Slacker

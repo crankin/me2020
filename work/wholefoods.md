@@ -2,6 +2,8 @@
 title: 08 WHOLE FOODS MARKET
 types: PACKAGING
 wnav: yes
+bqwork: "<p>&ldquo;I knew that Marc would inspire, delight and push the edges of our package design.</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp; He delivered with passion. His packaging designs are authentic and evocative, reflecting the origin and tradition of our favorite food artisans. The designs not only successfully stand out on a cluttered grocery aisle (a challenge in itself these days) but also live beautifully in the pantry of Whole Foods Market customers.&rdquo;</p><footer></p>Patty Fair, team leader, creative services : Whole Foods Market Private Label</p></footer>"
 images:
  - img: wfm/01-WFM-pasta-family.jpg
    alt: WFM pasta family

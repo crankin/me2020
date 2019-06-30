@@ -2,6 +2,8 @@
 title: '02 AUSTIN FILM SOCIETY'
 types: 'BRANDING : SIGNAGE : PUBLICATION : EXHIBIT : WEB : APPAREL : POSTERS : EVENT MATERIALS'
 wnav: yes
+bqwork: '<p>&ldquo;Marc English Design succeeded in re-creating our corporate identity where others tried and failed for over a year. It’s tough coming up with an image that communicates “film” without the clichéd images of film strip, reel, projector; and one that communicates “Austin” without the clichéd river, bridge, hills; but Marc English Design never got bogged down by unoriginal thinking. Our new logo seemed to emerge naturally, after they listened carefully to our staff and board, and took time to experience our activities and understand us. The result was a logo that captured and reflected our essence — the beauty of light through celluloid — without constricting our business possibilities. Because of their talent, commitment and fearlessness, I firmly believe they can handle the needs of any enterprise, from
+the humblest to the grandest.&rdquo;</p><footer><p>Rebecca Campbell, Director : Austin Film Society</p></footer>'
 images:
  - img: afs/01-linklater-logo.jpg
    alt: AFS logo wall shot
