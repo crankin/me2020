@@ -2,7 +2,7 @@
 title: 05 HULU
 types: 'BRANDING : TYPE DESIGN : TITLES : ANIMATED GRAPHICS : POSTER'
 wnav: yes
-bqwork: "<p>&ldquo;I trust Marc to do the right thing and I give him enough room to do so. Marc is great to work with and his ideas are always on target. I find his commitment to a project ensures that every detail is well thought out and executed. As a filmmaker, I recognize the authenticity of Marc’s visual storytelling. I value his input and look forward to working with him again.&rdquo;</p><footer><p>Richard Linklater, director : Detour Film Productions</p></footer>"
+bqwork: "<p>&ldquo;I trust Marc to do the right thing and I give him enough room to do so. Marc is great to work with and his ideas are always on target. I find his commitment to a project ensures that every detail is well thought out and executed. As a filmmaker, I recognize the authenticity of Marc’s visual storytelling. I value his input and look forward to working with him again.&rdquo;</p><footer><p>Richard Linklater, <em>director : Detour Film Productions</em></p></footer>"
 images:
  - img: hulu/01-UTS-poster-v4.jpg
    alt: title screen 1

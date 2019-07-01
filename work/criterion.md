@@ -2,7 +2,7 @@
 title: 03 THE CRITERION COLLECTION
 types: 'PACKAGING : PUBLICATION : INTERACTIVE MENUS'
 wnav: yes
-bqwork: "<p>&ldquo;Wow. Let me just say, they do amazing work. I LOVE THEM. It takes a lot to get me excited after 10 years here, but Marc totally ‘gets it’. The best DVD packaging considers the entire concept of the production. Marc English Design is a perfect choice because they understand that presenting the world of each film is essential. The care and consideration with which each and every element is designed, makes it very clear how much they understand each movie. And we love their design as much as we love the films. Their design is the kind of presentation that involves the viewer and fan of the film; there are many tidbits to discover and make connections to. Just perfect. Marc English Design rocks savage.&rdquo;</p><footer><p>Susan Arosteguy, producer : The Criterion Collection</p></footer>"
+bqwork: "<p>&ldquo;Wow. Let me just say, they do amazing work. I LOVE THEM. It takes a lot to get me excited after 10 years here, but Marc totally ‘gets it’. The best DVD packaging considers the entire concept of the production. Marc English Design is a perfect choice because they understand that presenting the world of each film is essential. The care and consideration with which each and every element is designed, makes it very clear how much they understand each movie. And we love their design as much as we love the films. Their design is the kind of presentation that involves the viewer and fan of the film; there are many tidbits to discover and make connections to. Just perfect. Marc English Design rocks savage.&rdquo;</p><footer><p>Susan Arosteguy, <em>producer : The Criterion Collection</em></p></footer>"
 images:
  - img: criterion/01-slacker-cover.jpg
    alt: Slacker
@@ -82,7 +82,7 @@ A guy runs up to me and says “HEY! Some people are looking for you! They want 
 
 If you live in Austin, there is really no excuse for not having seen Slacker, the seminal film by Rick — er, RICHARD — Linklater. It not only defines a place, but a time. And not only that, but it holds one of the champion positions in the annals of Independent Filmmaking.
 
-So of course I was thrilled to meet the kind folks with The Criterion Collection. Criterion holds a unique place in both culture and commerce. <u>They hold themselves to the highest standards, in terms of placing film on the pedestal it deserves, all while finding a way to</u>
+So of course I was thrilled to meet the kind folks with The Criterion Collection. Criterion holds a unique place in both culture and commerce.
 
 Why me? Met Rick thru Harvard prof and filmmaker Robb Moss, with whom I’d played softball at MIT. Then ended up doing all the branding for the Austin Film Society, which Rick started, back in ‘85. So of course Rick knew my work, especially as I’d done a piece for the 10th anniversary of Slacker. He trusts me. I cannot say enough about those who trust me. Because it’s never about me, but about me taking the time to understand them, to listen to them, and they know I’ll do that.
 

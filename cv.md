@@ -111,13 +111,14 @@ _2016-2018_
 
 ### FEATURED IN THE FOLLOWING BOOKS OR ARTICLES
 
-[__Fika with Marc English and Skipper Chong Warson__](https://podcasts.apple.com/us/podcast/fika-with-marc-english-and-skipper-chong-warson/id1188221550?i=1000416008666)  
-Fjord Fika podcast
+[__We chat with Marc English__](https://podcasts.apple.com/us/podcast/fika-with-marc-english-and-skipper-chong-warson/id1188221550?i=1000416008666)  
+_Skipper Chong Warson : Fjord Fika, 2018_
 
 [__The Preachings of Design Shaman Marc English__](http://www.printmag.com/imprint/the-preachings-of-design-shaman-marc-english/)  
-Zachary Petit : Print, 2016
+_Zachary Petit : Print, 2016_
 
-_Emily Potts : Moxie Sosa, 2016_
+[__Marc English is Always Going Off the Beaten Path__](https://moxiesozo.com/2016/09/20/marc-english-is-always-going-off-the-beaten-path/)
+_Leif Steiner & Emily Potts : Moxie Sosa, 2016_
 
 __Flaunt: Designing effective, compelling and memorable portfolios of creative work__
 _Bryony Gomez-Palacio & Armin Vit, 2015._

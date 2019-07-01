@@ -237,6 +237,16 @@ blockquote.inwork footer p {
    font-weight: 400;
 }
 
+.testimonials section blockquote {
+  border-top: 1px dashed black;
+  margin: 0 0.3rem 1.5rem;
+  padding-top: 0.4rem
+}
+
+.testimonials section blockquote p {
+  margin-bottom: 0.4rem;
+}
+
 
 @media screen and (min-width: 720px) {
 
@@ -292,4 +302,36 @@ blockquote.inwork {
 
 .main.cv h2 { grid-column: 3/6; }
 
+.testimonials {
+  grid-template-rows: min-content 1fr;
+}
+
+.testimonials section {
+  grid-row: 3;
+  grid-column: 1/-1;
+  /* display: flex; */
+  -webkit-columns: 2;
+  columns: 2;
+}
+
+/* .testimonials h2 {
+  grid-column;
+} */
+
+}
+
+@media screen and (min-width: 1000px) {
+
+.testimonials section {
+  -webkit-columns: 3;
+  columns: 3;
+}
+}
+
+@media screen and (min-width: 1200px) {
+
+.testimonials section {
+  -webkit-columns: 4;
+  columns: 4;
+}
 }
