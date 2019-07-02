@@ -28,6 +28,7 @@ images:
    alt: MARK Shana board
  - img: mark/12-MARK-poster.jpg
    alt: MARK poster
+   class: shadow
  - img: mark/13-Promobook-Page3.jpg
    alt: MARK promobook
  - img: mark/14-Promobook-Page1.jpg

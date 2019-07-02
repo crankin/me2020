@@ -5,23 +5,25 @@ wnav: yes
 bqwork: "<p>&ldquo;I trust Marc to do the right thing and I give him enough room to do so. Marc is great to work with and his ideas are always on target. I find his commitment to a project ensures that every detail is well thought out and executed. As a filmmaker, I recognize the authenticity of Marc’s visual storytelling. I value his input and look forward to working with him again.&rdquo;</p><footer><p>Richard Linklater, <em>director : Detour Film Productions</em></p></footer>"
 images:
  - img: hulu/01-UTS-poster-v4.jpg
-   alt: title screen 1
+   alt: Up to Speed poster
+   class: shadow
  - img: hulu/02-UTS-Titlecard.jpg
-   alt: title screen 2
+   alt: Up to Speed title card
  - img: hulu/03-UPS-map-travel.png
-   alt: title screen 3
+   alt: Up to Speed travel map
  - img: hulu/04-UPS-bus.png
-   alt: title screen 4
+   alt: Up to Speed bus
  - img: hulu/05-MADEINUSA-poster.jpg
-   alt: title screen 5
+   alt: Made in USA poster
+   class: shadow
  - img: hulu/06-UTS-type-design.jpg
-   alt: title screen 6
+   alt: Up to Speed type design
  - img: hulu/07-UTS-Emperor.jpg
-   alt: title screen 7
+   alt: Up to Speed emperor
  - img: hulu/08-UTS-jefferson.jpg
-   alt: title screen 8
+   alt: Up to Speed - Jefferson
  - img: hulu/09-UTS-SgtPepper-cover.jpg
-   alt: title screen 9
+   alt: Up to Speed - Sgt Pepper cover
 ---
 
 I run into director Rick  — sorry, I keep forgetting, RICHARD — Linklater at the Fire Relief benefit concert (yes, we did the branding) for the victims of the historical fires a month earlier that wiped out swaths of Bastrop and central Texas. Rick mentions he’d like to talk to me about a project he’s got cooking. We sit down a month or so later, to share his ideas and a script by Speed Levitch.

@@ -3,18 +3,24 @@ title: 07 TEXAS WRITERS MONTH
 types: 'BRANDING : PUBLICATION : POSTERS'
 wnav: yes
 images:
- - img: writers/01-poster-ohenry.jpg
-   alt: O. Henry poster
- - img: writers/02-poster-porter.jpg
-   alt: Katherine Anne Porter poster
- - img: writers/03-poster-larry.jpg
-   alt: Larry McMurtry poster
- - img: writers/04-poster-mccarthy.jpg
-   alt: Cormac McCarthy poster
- - img: writers/05-poster-michener.jpg
-   alt: James Michener poster
- - img: writers/06-poster-michener-detail.jpg
+ - img: writers/01-TWM-Michener-detail.jpg
    alt: James Michener poster (detail)
+   class: shadow
+ - img: writers/02-McCarthy-poster.jpg
+   alt: Cormac McCarthy poster
+   class: shadow
+ - img: writers/03-TWM-Michener-poster.jpg
+   alt: James Michener poster
+   class: shadow
+ - img: writers/04-Katherine-Anne-Porter-poster.jpg
+   alt: Katherine Anne Porter poster
+   class: shadow
+ - img: writers/05-McMurty-poster.jpg
+   alt: Larry McMurty poster
+   class: shadow
+ - img: writers/06-ohenry-poster.jpg
+   alt: O. Henry poster
+   class: shadow
 ---
 
 James Michener wrote: “I write at 85 with the same reasons that impelled me at 45: I was born with a passionate desire to communicate, or organize experience, to tell tales that dramatize the adventures which readers might have had. I’ve been that ancient man who sat by the camp fire at night and regaled the hunters with imaginative recitations about their prowess. The job of an apple tree is to bear apples. The job of a storyteller is to tell stories, and I have concentrated on that obligation.”

@@ -5,7 +5,7 @@ slug: cv
 anav: yes
 ---
 
-<section id="cv-col-1">
+<div id="cv-col1">
 
 ### CAREER HISTORY
 
@@ -37,8 +37,7 @@ Client, vendor interaction for Fortune 500 studio.
 
 ### AUTHOR
 
-__Designing Identity: Graphic Design as a Business Strategy__
-
+__Designing Identity: Graphic Design as a Business Strategy__  
 _Rockport, 1998_
 
 A series of industry-specific case-studies providing insight
@@ -106,8 +105,8 @@ _2016-2018_
 
 <i>First person to be president of two chapter, AND serve on the national board of directors</i>
 
-</section>
-<section id="cv-col-2">
+</div>
+<div id="cv-col2">
 
 ### FEATURED IN THE FOLLOWING BOOKS OR ARTICLES
 
@@ -227,4 +226,4 @@ _2012_
 __10,000+ mile motorcycle trip__, over seven weeks, across eastern U.S., Canada
 _2015_
 
-</section>
+</div>

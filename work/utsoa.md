@@ -5,6 +5,7 @@ wnav: yes
 images:
  - img: utsoa/01-utsoa-cover-flowers.jpg
    alt: UTSOA cover with flowers
+   class: shadow
  - img: utsoa/02-utsoa-certificate-DETAIL.jpg
    alt: UTSOA certificate
  - img: utsoa/04-UTSOA-logo-model.jpg

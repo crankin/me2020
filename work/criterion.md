@@ -6,12 +6,14 @@ bqwork: "<p>&ldquo;Wow. Let me just say, they do amazing work. I LOVE THEM. It t
 images:
  - img: criterion/01-slacker-cover.jpg
    alt: Slacker
+   class: shadow
  - img: criterion/02-slacker-full-package.jpg
    alt: Slacker
  - img: criterion/03-slacker-full-package-discs.jpg
    alt: Slacker
  - img: criterion/05-SLACKER-booklet-cover.jpg
    alt: Slacker
+   class: shadow
  - img: criterion/06-SLACKER-6page.jpg
    alt: Slacker
  - img: criterion/07-SLACKER-menu-1.jpg
@@ -23,6 +25,7 @@ images:
 
  - img: criterion/10-MOPI-cover-SIGNED.jpg
    alt: My Own Private Idaho
+   class: shadow
  - img: criterion/11-MOPI-covers.jpg
    alt: My Own Private Idaho
  - img: criterion/12-MOPI-6pages.jpg
@@ -34,6 +37,7 @@ images:
 
  - img: criterion/20-DAZED-Cover.jpg
    alt: Dazed and Confused
+   class: shadow
  - img: criterion/21-DAZED-all-covers.jpg
    alt: Dazed and Confused
  - img: criterion/22-DAZED-4covers-disc.jpg
@@ -47,6 +51,7 @@ images:
 
  - img: criterion/30-TWO-cover-MONTE.jpg
    alt: Two-lane Blacktop
+   class: shadow
  - img: criterion/31-TWO-covers.jpg
    alt: Two-lane Blacktop
  - img: criterion/32-TWO-booklet-cover.jpg
@@ -62,6 +67,7 @@ images:
 
  - img: criterion/40-WALKER-cover.jpg
    alt: Walker
+   class: shadow
  - img: criterion/41-WALKER-final-covers.jpg
    alt: Walker
  - img: criterion/42-WALKER-Booklet-6pages.jpg

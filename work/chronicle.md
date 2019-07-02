@@ -29,6 +29,7 @@ images:
 
  - img: chronicle/13-CUAS-cover.jpg
    alt: Cooking Up A Storm
+   class: shadow
  - img: chronicle/14-CUAS.jpg
    alt: Cooking Up A Storm
  - img: chronicle/15-CUAS.jpg

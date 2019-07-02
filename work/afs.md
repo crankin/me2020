@@ -6,57 +6,60 @@ bqwork: '<p>&ldquo;Marc English Design succeeded in re-creating our corporate id
 the humblest to the grandest.&rdquo;</p><footer><p>Rebecca Campbell, <em>Director : Austin Film Society</em></p></footer>'
 images:
  - img: afs/01-linklater-logo.jpg
-   alt: AFS logo wall shot
- - img: afs/02-austin-studios.jpg
-   alt: AFS identity
- - img: afs/03-AFS-20th.jpg
    alt: Richard Linkletter with AFS logo
+ - img: afs/02-austin-studios.jpg
+   alt: AFS at Austin Studios
+ - img: afs/03-AFS-20th.jpg
+   alt: AFS 20th Anniversary book
  - img: afs/04-20th-contents.jpg
-   alt: Austin Studios brochure
+   alt: AFS 20th Anniversary book
  - img: afs/05-20th-studios.jpg
-   alt: PoV 2019 cover
+   alt: AFS 20th Anniversary studios
  - img: afs/06-20th-QT6.jpg
-   alt: 20th Anniversary cover
+   alt: QT Six identity
  - img: afs/07-pov1.jpg
-   alt: QT5 identity
+   alt: POV cover
  - img: afs/08-pov2.jpg
-   alt: Texas Hall of Fame poster
+   alt: POV spreads
  - img: afs/09-AFS-summer-poster-2001.jpg
-   alt: AFS Essential t-shirt
+   alt: AFS summer series 2018
+   class: shadow
  - img: afs/10-AFS-essential-cinema-poster.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: AFS Essential Cinema poster
+   class: shadow
  - img: afs/11-AFS-essential-cinema-poster.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: AFS Essential Cinema poster
+   class: shadow
  - img: afs/12-pov3-20th-flyers.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: AFS 20th flyers
  - img: afs/13-afs-essential-T.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: AFS Essentials t-shirt
  - img: afs/14-20th-Essential.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: AFS Essentials
  - img: afs/15-HOF.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: Texas Film Hall of Fame identity
  - img: afs/16-afs-zz-top.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: ZZ Top at Texas Film Hall of Fame
  - img: afs/17-20th-duval.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: 20th Anniversary - Robert Duval
  - img: afs/18-HOF-english-duval.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: Hall of Fame - Robert Duval
  - img: afs/19-HOF-Nesmith.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: Hall of Fame - Michael Nesmith
  - img: afs/20-HOF.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: Hall of Fame
  - img: afs/21-HOF-guffman.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: Hall of Fame - Waiting for Guffman
  - img: afs/22-Rick.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: Hall of Fame - Linklater
  - img: afs/23-HOF-tarantino.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: Hall of Fame - Quentin Tarantino
  - img: afs/24-AFS-website.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: AFS website
  - img: afs/25-AFS-airport-exhibit.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: AFS airport exhibit
  - img: afs/26-AFS-Austin-Studios-T.jpg
-   alt: Make Watch Love Film t-shirt
+   alt: AFS Austin Studios t-shirt
 ---
 
 The year 1998. My book “Designing Identity” has just come out. Robb Moss is in Austin to serve on the jury for the Texas Filmmaker Production Fund, to decide who gets awarded funding. When I last saw Robb, who was a film professor at Harvard, he was most likely whipping a ball to me, from shortstop to my position at second base, as I’d played softball at MIT for 13 seasons. Now in Austin, I attend the screening of his film “Riverdogs,” and offer him a copy of my book. He invites me to join him for dinner, along with AFS founder Rick Linklater, and executive director Rebecca Campbell. Of course I am aware of both Linklater and AFS from my days in Boston, as I’m a film guy who keep his ear to the ground.
