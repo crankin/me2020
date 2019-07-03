@@ -1,5 +1,5 @@
 ---
-title: 08 WHOLE FOODS MARKET
+title: 10 WHOLE FOODS MARKET
 types: PACKAGING
 wnav: yes
 bqwork: "<p>&ldquo;I knew that Marc would inspire, delight and push the edges of our package design.</p>

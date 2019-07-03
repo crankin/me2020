@@ -1,5 +1,5 @@
 ---
-title: 09 UNIVERSITY OF TEXAS SCHOOL OF ARCHITECTURE
+title: 08 UNIVERSITY OF TEXAS SCHOOL OF ARCHITECTURE
 types: 'BRANDING : TYPE DESIGN : INTERIORS : PUBLICATION DESIGN : PACKAGING : WEB'
 wnav: yes
 images:
@@ -18,7 +18,7 @@ images:
    alt: UTSOA flower color palette
  - img: utsoa/08-flower-PMS-palette.jpg
    alt: UTSOA flower PMS palette
- - img: utsoa/10-Pancho-Munoz-Cortez-2009.jpg
+ - img: utsoa/10-Pancho-Munoz-Cortez.jpg
    alt: Pancho Munoz Cortez
 ---
 

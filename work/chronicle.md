@@ -1,5 +1,5 @@
 ---
-title: 04 CHRONICLE BOOKS
+title: 03 CHRONICLE BOOKS
 types: PUBLICATION
 wnav: yes
 bqwork: "<p>&ldquo;I was very impressed by your work on Where Flavor Was Born. Having worked so hard researching and writing the book, I am always very nervous when, suddenly, the baby is in someone else’s hands. What will happen? Will the designers see my project? How will they raise and nurture my baby on its way to adulthood and a place of its own in public? I found that you really saw the material and managed to create a palette for the palate, to communicate my stories and those of my photographer, and to present the book with a personality that was at the same time friendly, accessible, confident and unique. Chapeau! [hat’s off!]&rdquo;</p><footer><p>Andreas Viestad, <em>chef/author/host : New Scandinavian Cooking</em></p></footer>"

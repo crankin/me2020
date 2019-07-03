@@ -1,12 +1,32 @@
 ---
-layout: book
+layout: work
 title: Designing Identity
-subtitle: 'The Present : The Future'
+types: 'The Present : The Future'
 slug: book
 anav: yes
+images:
+ - img: book/00-DI-cover.jpg
+   alt: Designing Identity cover
+   class: shadow
+ - img: book/01-DI-LIVE-OAK-1.jpg
+   alt: Designing Identity - Live Oak case study
+ - img: book/02-DI-LIVE-OAK-2.jpg
+   alt: Designing Identity - Live Oak case study
+ - img: book/03-DI-BURTON-1.jpg
+   alt: Designing Identity - Burton case study
+ - img: book/04-DI-BURTON-2.jpg
+   alt: Designing Identity - Burton case study
+ - img: book/05-DI-TAZO-1.jpg
+   alt: Designing Identity - Tazo case study
+ - img: book/06-DI-TAZO-2.jpg
+   alt: Designing Identity - Tazo case study
+ - img: book/07-DI-TAZO-3.jpg
+   alt: Designing Identity - Tazo case study
+ - img: book/08-DI-TAZO-4.jpg
+   alt: Designing Identity - Tazo case study
+ - img: book/09-DI-TAZO-5.jpg
+   alt: Designing Identity - Tazo case study  
 ---
-
-<div id="book-col1">
 
 __What were you doing twenty years ago?__
 
@@ -42,9 +62,6 @@ an Austin institution. You should visit their brewery near the airport, next tim
 
 If in Austin, you may even find yourself crossing paths with Ed Bailey. When I wrote the book, wanting to include the identity for the Rock & Roll Hall of Fame + Museum, in Cleveland — that I could find an angle to cover my pre-design love, rock’n’roll — Ed was their marketing director. It was not a few years later, when Ed moved to Austin, to find himself equally influential and neck-deep in the Austin City Limits machine. Rock on!
 
-</div>
-<div id="book-col2">
-
 In writing the book, I pointedly stayed away from focusing on the Big Names in the Big Cities, to make clear that there’s good and great design everywhere. Yes, a few big names and cities cropped up, after all, most of the designers I included were often some combination of friends, peers, or those whom I respected.
 
 Twenty years later it’s telling to see who’s still in the game (Michael McPherson, Nancy Skolos, Nancy and Joseph Michael Essex, Sean Adams, Noreen Morioka, Sonia Greteman, Andy Cruz, Sharon Werner, Drew Hodges, Forrest Richardson, Steven Wedeen, Steve Sandstrom, among others), which companies and institutions still thrive (Burton Snowboards, the Mirage Hotel, the Rock & Roll Hall of Fame, RENT — then on Broadway, now in a High School production near you!), and who has passed on (RIP Tom Corey, Rick Vaughn, Margo Chase,
@@ -75,9 +92,6 @@ But what I consider the true story, will be found at the end of this post, as a 
 
 [Want to read the BrandNew take on ANOTHER rebrand, long after Sandstrom resigned the account?](https://www.underconsideration.com/brandnew/archives/tazo_drops_the_gothic_act.php) “Not bad,” is their final word, a bit underwhelming, considering Bryony Gomez-Palacio and Armin Vit very much know how to whelm when writing.
 
-</div>
-<div id="book-col3">
-
 __Read Steve’s own words, which follow, on the Tazo branding process:__
 
 01.04.2017
@@ -103,5 +117,3 @@ Today, I think of Tazo as a product line, not a brand. It looks like so many oth
 If you want some great tea – arguably the best in the world – look for Steven Smith Teamaker. It’s the tea we’d have created if Tazo hadn’t gone mainstream. We avoided the Tazo-inspired and sameness the category had become. That’s also a reason to change. When every brand looks the same. If you could create a cliché design for tea, then you know there’s opportunity to do something different. But timeless? Still a challenge.
 
 Steve
-
-</div>

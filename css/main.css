@@ -6,6 +6,10 @@
   --me-black: rgb(0,0,0);
   }
 
+.tcyan em {
+  color: var(--me-cyan);
+}
+
 body {
   font-size: 1rem;
   font-family: courier, 'courier new', monospace;

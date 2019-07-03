@@ -23,7 +23,7 @@ images:
    class: shadow
 ---
 
-James Michener wrote: “I write at 85 with the same reasons that impelled me at 45: I was born with a passionate desire to communicate, or organize experience, to tell tales that dramatize the adventures which readers might have had. I’ve been that ancient man who sat by the camp fire at night and regaled the hunters with imaginative recitations about their prowess. The job of an apple tree is to bear apples. The job of a storyteller is to tell stories, and I have concentrated on that obligation.”
+James Michener wrote: __“I write at 85 with the same reasons that impelled me at 45: I was born with a passionate desire to communicate, or organize experience, to tell tales that dramatize the adventures which readers might have had. <span style="color:rgb(236,0,140);">I’ve been that ancient man who sat by the camp fire at night and regaled the hunters with imaginative recitations about their prowess.</span> The job of an apple tree is to bear apples. The job of a storyteller is to tell stories, and I have concentrated on that obligation.”__
 
 Could not have said it better, and that same mission has driven all the work that’s come out of my studio.
 
