@@ -119,6 +119,9 @@ _Zachary Petit : Print, 2016_
 [__Marc English is Always Going Off the Beaten Path__](https://moxiesozo.com/2016/09/20/marc-english-is-always-going-off-the-beaten-path/)
 _Leif Steiner & Emily Potts : Moxie Sosa, 2016_
 
+[__A Solo Life: The Reluctant Soloist__](http://www.thesoloproject.org/the-quarterly#a-solo-life-3)  
+_The Solo Project, 2015_
+
 __Flaunt: Designing effective, compelling and memorable portfolios of creative work__
 _Bryony Gomez-Palacio & Armin Vit, 2015._
 
