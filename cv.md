@@ -110,6 +110,9 @@ _2016-2018_
 
 ### FEATURED IN THE FOLLOWING BOOKS OR ARTICLES
 
+[__The Good, the Bad, and the Indie__](https://www.thesoloproject.com/stories/marcenglish)
+_The Solo Project, 2021_
+
 [__We chat with Marc English__](https://podcasts.apple.com/us/podcast/fika-with-marc-english-and-skipper-chong-warson/id1188221550?i=1000416008666)  
 _Skipper Chong Warson : Fjord Fika, 2018_
 
