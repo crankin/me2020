@@ -110,7 +110,10 @@ _2016-2018_
 
 ### FEATURED IN THE FOLLOWING BOOKS OR ARTICLES
 
-[__The Good, the Bad, and the Indie__](https://www.thesoloproject.com/stories/marcenglish)
+[__What Matters to Marc English__](https://www.printmag.com/what-matters/what-matters-to-marc-english/)  
+_Debbie Millman : Print, 2023_
+
+[__The Good, the Bad, and the Indie__](https://www.thesoloproject.com/stories/marcenglish)  
 _The Solo Project, 2021_
 
 [__We chat with Marc English__](https://podcasts.apple.com/us/podcast/fika-with-marc-english-and-skipper-chong-warson/id1188221550?i=1000416008666)  
@@ -119,7 +122,7 @@ _Skipper Chong Warson : Fjord Fika, 2018_
 [__The Preachings of Design Shaman Marc English__](http://www.printmag.com/imprint/the-preachings-of-design-shaman-marc-english/)  
 _Zachary Petit : Print, 2016_
 
-[__Marc English is Always Going Off the Beaten Path__](https://moxiesozo.com/2016/09/20/marc-english-is-always-going-off-the-beaten-path/)
+[__Marc English is Always Going Off the Beaten Path__](https://moxiesozo.com/2016/09/20/marc-english-is-always-going-off-the-beaten-path/)  
 _Leif Steiner & Emily Potts : Moxie Sosa, 2016_
 
 [__A Solo Life: The Reluctant Soloist__](http://www.thesoloproject.org/the-quarterly#a-solo-life-3)  
