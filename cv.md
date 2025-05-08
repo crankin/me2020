@@ -197,7 +197,8 @@ Juror for local, regional, national design and advertising competitions, from Co
 
 ### LECTURER
 
-1998-present
+1993-present
+
 Guest speaker at professional and institutional venues and conferences across the United States. First U.S. designer to speak at inaugural design conferences in Guatemala City, Guatemala and Tijuana, México.
 
 ### REAL LIFE
@@ -234,5 +235,9 @@ _2012_
 
 __10,000+ mile motorcycle trip__, over seven weeks, across eastern U.S., Canada
 _2015_
+
+__Drive 5000 miles__, from farthest reaches of Newfoundland, Canada to Wimberley, Texas _2021_
+
+__Sail 1200 miles__, from Honolulu to Kiritimati, three miles north of the equator, to spend two months on the world’s largest coral atoll, to do research for book and film projects. (see [King Joe 1916-2023](https://kingjoe1916-2023.com/about/))
 
 </div>
