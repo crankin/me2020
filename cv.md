@@ -122,6 +122,8 @@ _Skipper Chong Warson : Fjord Fika, 2018_
 [__The Preachings of Design Shaman Marc English__](http://www.printmag.com/imprint/the-preachings-of-design-shaman-marc-english/)  
 _Zachary Petit : Print, 2016_
 
+[__Marc English Interview @ Mount Ida College__](https://www.youtube.com/watch?v=JXZFakPfuJ8)
+
 [__Marc English is Always Going Off the Beaten Path__](https://moxiesozo.com/2016/09/20/marc-english-is-always-going-off-the-beaten-path/)  
 _Leif Steiner & Emily Potts : Moxie Sosa, 2016_
 
