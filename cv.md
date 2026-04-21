@@ -123,6 +123,7 @@ _Skipper Chong Warson : Fjord Fika, 2018_
 _Zachary Petit : Print, 2016_
 
 [__Marc English Interview @ Mount Ida College__](https://www.youtube.com/watch?v=JXZFakPfuJ8)
+_Mount Ida College School of Design : YouTube, 2016_
 
 [__Marc English is Always Going Off the Beaten Path__](https://moxiesozo.com/2016/09/20/marc-english-is-always-going-off-the-beaten-path/)  
 _Leif Steiner & Emily Potts : Moxie Sosa, 2016_
